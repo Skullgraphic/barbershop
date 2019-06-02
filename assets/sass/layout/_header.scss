@@ -1,0 +1,24 @@
+.header__navbar{
+  background-color: $eerie-black;
+}
+
+.header__logo {
+  width: 60px;
+  padding-top:2rem;
+}
+
+.header__lista{
+  font-family: $roboto;
+  color: $white;
+}
+
+.header__img{
+  box-sizing: cover;
+}
+
+.header_frase{
+  float:none;
+  margin: 0 auto;
+  font-family: $playfair;
+  font-size: $large:
+}
